@@ -21,3 +21,10 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.team-name {
+  text-align: center;
+}
+
+.team-role {
+  text-align: center;
+}
