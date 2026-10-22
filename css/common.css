@@ -2,6 +2,8 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 a { text-decoration: none; }
 ul { list-style-type: none; }
